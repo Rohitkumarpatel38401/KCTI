@@ -76,7 +76,7 @@
             <div>
               <div style="font-size:0.75rem; font-weight:700; letter-spacing:0.08em; text-transform:uppercase; color:var(--kc-text-muted); margin-bottom:4px;">Address</div>
               <div style="font-size:0.9rem; color:var(--kc-text-secondary); line-height:1.5; font-weight:500;">
-                Kranti Computer, Near Main Chauraha,<br>Prayagraj — 221507
+                Kranti Computer Training Institute, Near Sita Ram Inter college Babuganj,<br>Prayagraj 221507.
               </div>
             </div>
           </li>
@@ -86,8 +86,8 @@
             <div>
               <div style="font-size:0.75rem; font-weight:700; letter-spacing:0.08em; text-transform:uppercase; color:var(--kc-text-muted); margin-bottom:4px;">Phone</div>
               <div style="font-size:0.9rem; line-height:1.7;">
-                <a href="tel:9026043415" style="color:var(--kc-brand); font-weight:600; text-decoration:none;">9026043415</a><br>
-                <a href="tel:8546033850" style="color:var(--kc-brand); font-weight:600; text-decoration:none;">8546033850</a>
+                <a href="tel:9839019108" style="color:var(--kc-brand); font-weight:600; text-decoration:none;">9839019108</a><br>
+                <a href="tel:8953524310" style="color:var(--kc-brand); font-weight:600; text-decoration:none;">8953524310</a>
               </div>
             </div>
           </li>
@@ -116,7 +116,7 @@
             <div style="width:44px; height:44px; border-radius:50%; background:rgba(37,211,102,0.12); border:1.5px solid rgba(37,211,102,0.3); display:flex; align-items:center; justify-content:center; font-size:1.1rem; flex-shrink:0;">💬</div>
             <div>
               <div style="font-size:0.75rem; font-weight:700; letter-spacing:0.08em; text-transform:uppercase; color:var(--kc-text-muted); margin-bottom:6px;">WhatsApp</div>
-              <a href="https://wa.me/919026043415" target="_blank"
+              <a href="https://wa.me/9026043415" target="_blank"
                  class="kc-btn kc-btn-pill-indigo"
                  style="height:34px; padding:0 16px; font-size:0.8rem;">
                 💬 Chat on WhatsApp

@@ -482,8 +482,8 @@
           <p style="font-size:0.84rem; color:rgba(255,255,255,0.75); margin-bottom:16px; line-height:1.6;">
             Have questions before applying? Call or WhatsApp us — we are happy to help.
           </p>
-          <a href="tel:+919026043415" class="ms-fr-call-btn">📞 Call Now</a>
-          <a href="https://wa.me/919026043415" class="ms-fr-call-btn ms-fr-whatsapp">💬 WhatsApp</a>
+          <a href="tel:+919839019108" class="ms-fr-call-btn">📞 Call Now</a>
+          <a href="https://wa.me/919839019108" class="ms-fr-call-btn ms-fr-whatsapp">💬 WhatsApp</a>
         </div>
 
       </div>

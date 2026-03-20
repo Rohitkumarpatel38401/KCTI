@@ -50,7 +50,7 @@
           <li class="kc-contact-item">
             <div class="kc-contact-icon" aria-hidden="true">📍</div>
             <span class="kc-contact-text">
-              Kranti Computer, Near Main Chauraha,<br>Prayagraj 221507.
+              Kranti Computer Training Institute, Near Sita Ram Inter college Babuganj,<br>Prayagraj 221507.
             </span>
           </li>
           <li class="kc-contact-item">
@@ -64,8 +64,8 @@
           <li class="kc-contact-item">
             <div class="kc-contact-icon" aria-hidden="true">📞</div>
             <span class="kc-contact-text">
-              <a href="tel:9026043415" style="color:inherit;">9026043415</a>,
-              <a href="tel:8546033850" style="color:inherit;">8546033850</a>
+              <a href="tel:919839019108" style="color:inherit;">9839019108</a>,
+              <a href="tel:918953524310" style="color:inherit;">8953524310</a>
             </span>
           </li>
         </ul>

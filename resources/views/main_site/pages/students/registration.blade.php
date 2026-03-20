@@ -574,8 +574,8 @@
           <p style="font-size:0.84rem; color:rgba(255,255,255,0.75); margin-bottom:16px; line-height:1.6;">
             Admission ke liye koi bhi sawaal ho toh call karein ya WhatsApp karein.
           </p>
-          <a href="tel:+91XXXXXXXXXX" class="ms-sidebar-call-btn">📞 Call Now</a>
-          <a href="https://wa.me/91XXXXXXXXXX" class="ms-sidebar-call-btn ms-sidebar-whatsapp-btn">💬 WhatsApp</a>
+          <a href="tel:+919839019108" class="ms-sidebar-call-btn">📞 Call Now</a>
+          <a href="https://wa.me/919839019108" class="ms-sidebar-call-btn ms-sidebar-whatsapp-btn">💬 WhatsApp</a>
         </div>
 
       </div>
